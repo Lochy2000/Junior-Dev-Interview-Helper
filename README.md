@@ -76,40 +76,72 @@ A comprehensive, beginner-friendly collection of **cheat sheets**, **interview q
 ## ⚡ Quick Start
 
 ### Browse Documentation
-All documentation is organized in the [`docs/`](docs/) folder:
+All documentation is organized by topic in the [`docs/`](docs/) folder:
 
 ```
 docs/
-├── html.md                    # HTML fundamentals
-├── css.md                     # CSS layouts and styling
-├── javascript.md              # JavaScript essentials
-├── react.md                   # React concepts
-├── typescript.md              # TypeScript guide
-├── python.md                  # Python basics
-├── django.md                  # Django framework
-├── git.md                     # Git workflow
-├── databases.md               # Database concepts
-├── rest-apis.md               # API design
-├── docker.md                  # Docker basics
-├── cloud.md                   # Cloud fundamentals
-├── algorithms.md              # Algorithms & DS
-├── system-design.md           # System design intro
-└── cheat-sheets/              # Quick reference guides
-    ├── array-methods.md       # JS array methods
-    ├── linux-commands.md      # Terminal commands
-    ├── sql-queries.md         # Common SQL queries
-    ├── git-commands.md        # Git command reference
-    └── http-basics.md         # HTTP status codes & methods
+├── frontend/                   # Frontend Development
+│   ├── html.md                 # HTML fundamentals & accessibility
+│   ├── css.md                  # CSS layouts, flexbox, grid
+│   ├── javascript.md           # Modern JavaScript ES6+
+│   ├── react.md                # React hooks & components
+│   └── typescript.md           # TypeScript type safety
+│
+├── backend/                    # Backend Development
+│   ├── python.md               # Python fundamentals & OOP
+│   ├── django.md               # Django web framework
+│   └── rest-apis.md            # RESTful API design & best practices
+│
+├── databases/                  # Database & SQL
+│   └── sql-fundamentals.md    # SQL queries, joins, design
+│
+├── devops/                     # DevOps & Tools
+│   ├── git.md                  # Git workflows & collaboration
+│   └── docker.md               # Docker & containerization
+│
+├── computer-science/           # CS Fundamentals
+│   ├── algorithms.md           # Sorting, searching, Big O
+│   └── data-structures.md      # Arrays, trees, graphs (with visuals!)
+│
+└── cheat-sheets/               # Quick Reference Guides
+    ├── array-methods.md        # JavaScript array methods
+    ├── git-commands.md         # Git command reference
+    ├── sql-queries.md          # Common SQL patterns
+    ├── linux-commands.md       # Terminal/bash commands
+    └── http-basics.md          # HTTP methods & status codes
 ```
 
-### Search for Topics
-Use GitHub's search (press `/` to search) or browse by topic:
-- [HTML Basics](docs/html.md)
-- [CSS Fundamentals](docs/css.md)
-- [JavaScript ES6+](docs/javascript.md)
-- [React Interview Questions](docs/react.md)
-- [SQL Cheat Sheet](docs/cheat-sheets/sql-queries.md)
+### Quick Links by Category
+
+**🎨 Frontend Development**
+- [HTML Fundamentals](docs/frontend/html.md) - Semantic markup, accessibility, SEO
+- [CSS Essentials](docs/frontend/css.md) - Flexbox, Grid, responsive design
+- [JavaScript Modern](docs/frontend/javascript.md) - ES6+, async/await, array methods
+- [React Guide](docs/frontend/react.md) - Hooks, components, state management
+- [TypeScript Basics](docs/frontend/typescript.md) - Type safety, interfaces, generics
+
+**⚙️ Backend Development**
+- [Python Fundamentals](docs/backend/python.md) - Core concepts, OOP, data structures
+- [Django Framework](docs/backend/django.md) - MVT, ORM, views, templates
+- [REST APIs](docs/backend/rest-apis.md) - Design patterns, best practices, examples
+
+**💾 Databases**
+- [SQL Fundamentals](docs/databases/sql-fundamentals.md) - Queries, joins, transactions
+
+**🔧 DevOps & Tools**
+- [Git & GitHub](docs/devops/git.md) - Version control, workflows, collaboration
+- [Docker](docs/devops/docker.md) - Containers, Dockerfile, Docker Compose
+
+**🧠 Computer Science**
+- [Algorithms](docs/computer-science/algorithms.md) - Sorting, searching, Big O
+- [Data Structures](docs/computer-science/data-structures.md) - Visual guides with examples
+
+**📖 Quick Reference**
+- [JS Array Methods](docs/cheat-sheets/array-methods.md)
 - [Git Commands](docs/cheat-sheets/git-commands.md)
+- [SQL Queries](docs/cheat-sheets/sql-queries.md)
+- [Linux Commands](docs/cheat-sheets/linux-commands.md)
+- [HTTP Basics](docs/cheat-sheets/http-basics.md)
 
 ---
 
