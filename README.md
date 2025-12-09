@@ -10,7 +10,7 @@ A comprehensive, beginner-friendly collection of **cheat sheets**, **interview q
 
 ---
 
-## 🎯 Who This Is For
+##  Who This Is For
 
 - **Junior developers** preparing for technical interviews
 - **Bootcamp graduates** seeking their first dev job
@@ -21,7 +21,7 @@ A comprehensive, beginner-friendly collection of **cheat sheets**, **interview q
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [What's Inside](#-whats-inside)
 - [Quick Start](#-quick-start)
@@ -33,39 +33,39 @@ A comprehensive, beginner-friendly collection of **cheat sheets**, **interview q
 
 ---
 
-## 🌟 What's Inside
+##  What's Inside
 
-### 🎨 Frontend Development
+###  Frontend Development
 - **HTML** - Semantic markup, accessibility, SEO best practices
 - **CSS** - Flexbox, Grid, responsive design, animations, modern layouts
 - **JavaScript** - ES6+, DOM manipulation, async/await, promises, closures
 - **React** - Components, hooks, state management, lifecycle, performance
 - **TypeScript** - Type safety, interfaces, generics, practical examples
 
-### ⚙️ Backend Development
+###  Backend Development
 - **Python** - Core concepts, OOP, data structures, common patterns
 - **Django** - MVT architecture, ORM, views, templates, REST APIs
 - **REST APIs** - HTTP methods, status codes, API design principles
 - **Authentication** - Sessions, JWT, OAuth basics, security practices
 
-### 💾 Databases & Data
+###  Databases & Data
 - **SQL** - Queries, joins, indexes, optimization, transactions
 - **Database Design** - Relationships, normalization, schema design
 - **PostgreSQL & MySQL** - Common commands and best practices
 
-### 🔧 Development Tools
+###  Development Tools
 - **Git & GitHub** - Branching, merging, pull requests, workflows
 - **Command Line** - Essential Linux/Unix commands for developers
 - **Docker** - Containers, images, Docker Compose basics
 - **CI/CD** - Continuous integration and deployment fundamentals
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 - **AWS** - EC2, S3, Lambda, RDS basics for beginners
 - **Google Cloud Platform** - Compute, storage, deployment essentials
 - **Environment Variables** - Configuration management and security
 - **Deployment** - From local to production
 
-### 🧠 Computer Science Fundamentals
+###  Computer Science Fundamentals
 - **Data Structures** - Arrays, linked lists, trees, hash tables, graphs
 - **Algorithms** - Sorting, searching, recursion, time complexity
 - **System Design** - Beginner-friendly architecture patterns
@@ -73,7 +73,7 @@ A comprehensive, beginner-friendly collection of **cheat sheets**, **interview q
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Browse Documentation
 All documentation is organized by topic in the [`docs/`](docs/) folder:
@@ -113,30 +113,30 @@ docs/
 
 ### Quick Links by Category
 
-**🎨 Frontend Development**
+** Frontend Development**
 - [HTML Fundamentals](docs/frontend/html.md) - Semantic markup, accessibility, SEO
 - [CSS Essentials](docs/frontend/css.md) - Flexbox, Grid, responsive design
 - [JavaScript Modern](docs/frontend/javascript.md) - ES6+, async/await, array methods
 - [React Guide](docs/frontend/react.md) - Hooks, components, state management
 - [TypeScript Basics](docs/frontend/typescript.md) - Type safety, interfaces, generics
 
-**⚙️ Backend Development**
+** Backend Development**
 - [Python Fundamentals](docs/backend/python.md) - Core concepts, OOP, data structures
 - [Django Framework](docs/backend/django.md) - MVT, ORM, views, templates
 - [REST APIs](docs/backend/rest-apis.md) - Design patterns, best practices, examples
 
-**💾 Databases**
+** Databases**
 - [SQL Fundamentals](docs/databases/sql-fundamentals.md) - Queries, joins, transactions
 
-**🔧 DevOps & Tools**
+** DevOps & Tools**
 - [Git & GitHub](docs/devops/git.md) - Version control, workflows, collaboration
 - [Docker](docs/devops/docker.md) - Containers, Dockerfile, Docker Compose
 
-**🧠 Computer Science**
+** Computer Science**
 - [Algorithms](docs/computer-science/algorithms.md) - Sorting, searching, Big O
 - [Data Structures](docs/computer-science/data-structures.md) - Visual guides with examples
 
-**📖 Quick Reference**
+** Quick Reference**
 - [JS Array Methods](docs/cheat-sheets/array-methods.md)
 - [Git Commands](docs/cheat-sheets/git-commands.md)
 - [SQL Queries](docs/cheat-sheets/sql-queries.md)
@@ -145,7 +145,7 @@ docs/
 
 ---
 
-## 🔥 Popular Topics
+##  Popular Topics
 
 ### Most Searched Interview Questions
 
@@ -162,7 +162,7 @@ docs/
 
 ---
 
-## 🎓 Learning Path
+##  Learning Path
 
 ### Recommended Order for Beginners
 
@@ -176,28 +176,28 @@ docs/
 
 ---
 
-## 🛠 Roadmap
+##  Roadmap
 
-### ✅ Phase 1: Foundation (Current)
+###  Phase 1: Foundation (Current)
 - [x] Repository structure
 - [ ] Core documentation files
 - [ ] Essential cheat sheets
 - [ ] Code examples for each topic
 
-### 🔄 Phase 2: Enhanced Content
+###  Phase 2: Enhanced Content
 - [ ] Diagrams and flowcharts for visual learning
 - [ ] Interview question collections for each topic
 - [ ] Real-world project examples
 - [ ] Video tutorial links and external resources
 
-### 🚀 Phase 3: Interactive Features
+###  Phase 3: Interactive Features
 - [ ] Frontend web app with searchable content
 - [ ] Flashcard system for memorization
 - [ ] Interactive code playground
 - [ ] Dark/light theme toggle
 - [ ] Progress tracking
 
-### 🌍 Phase 4: Community Growth
+###  Phase 4: Community Growth
 - [ ] Multilingual documentation
 - [ ] Community-submitted interview questions
 - [ ] Discussion forum integration
@@ -206,7 +206,7 @@ docs/
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 This repository follows the **"Explain Like I'm 10"** principle:
 
@@ -217,18 +217,18 @@ This repository follows the **"Explain Like I'm 10"** principle:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 **Contributions are highly encouraged!** This is a community-driven project.
 
 ### How You Can Help
 
-- 📝 **Improve explanations** - Make complex topics clearer
-- ✨ **Add examples** - Show practical code usage
-- 🐛 **Fix typos** - Keep content polished
-- 📊 **Create diagrams** - Visual aids for learning
-- 💭 **Share interview questions** - Help others prepare
-- 🌐 **Translate content** - Make this accessible globally
+-  **Improve explanations** - Make complex topics clearer
+-  **Add examples** - Show practical code usage
+-  **Fix typos** - Keep content polished
+-  **Create diagrams** - Visual aids for learning
+-  **Share interview questions** - Help others prepare
+-  **Translate content** - Make this accessible globally
 
 ### Contribution Process
 
@@ -243,7 +243,7 @@ Read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
-## 📖 Keywords for Search
+##  Keywords for Search
 
 **Interview Preparation**: Junior developer interview questions, software engineering interview prep, web developer interview guide, coding interview practice, technical interview questions
 
@@ -261,11 +261,11 @@ Read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If this repository helped you in your journey, please consider:
 
-- **Starring** ⭐ this repository
+- **Starring**  this repository
 - **Sharing** it with other aspiring developers
 - **Contributing** your own knowledge
 - **Opening issues** for improvements
@@ -274,7 +274,7 @@ Every star helps more developers discover these resources!
 
 ---
 
-## 📬 Contact & Support
+##  Contact & Support
 
 - **Questions?** Open an [Issue](https://github.com/Lochy2000/Junior-Dev-Interview-Helper/issues)
 - **Suggestions?** Start a [Discussion](https://github.com/Lochy2000/Junior-Dev-Interview-Helper/discussions)
@@ -282,7 +282,7 @@ Every star helps more developers discover these resources!
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -290,9 +290,9 @@ Free to use, modify, and distribute. Attribution appreciated but not required.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-Built with ❤️ for the developer community.
+Built with  for the developer community.
 
 Special thanks to all contributors who help make this resource better for everyone.
 
