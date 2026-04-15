@@ -21,19 +21,42 @@ A comprehensive, beginner-friendly collection of **cheat sheets**, **interview q
 
 ---
 
-##  Table of Contents
+## 📋 Table of Contents
 
-- [What's Inside](#-whats-inside)
-- [Quick Start](#-quick-start)
-- [Documentation Structure](#-documentation-structure)
-- [Popular Topics](#-popular-topics)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [☕ Coffee Reads](#-coffee-reads)
+- [🌟 What's Inside](#-whats-inside)
+- [⚡ Quick Start](#-quick-start)
+- [🔥 Popular Topics](#-popular-topics)
+- [🛠 Roadmap](#-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
-##  What's Inside
+## ☕ Coffee Reads
+
+> Short, interesting reads for curious developers. No textbooks. No walls of code. Just the kind of thing you'd read over a coffee — and maybe bring up in your next interview.
+
+New to the repo? **Start here** — these are 3–5 minute reads on the concepts that matter most.
+
+| Read | What It's About | Time |
+|------|----------------|------|
+| [What Happens When You Type a URL](docs/coffee-reads/what-happens-when-you-type-a-url.md) | From keyboard press to rendered page | 4 min |
+| [Why JavaScript Is Single-Threaded](docs/coffee-reads/javascript-single-threaded.md) | The event loop without the pain | 4 min |
+| [Why `typeof null === 'object'` Is a Bug](docs/coffee-reads/typeof-null-bug.md) | A 30-year-old mistake that can't be fixed | 3 min |
+| [What Git Is Actually Doing](docs/coffee-reads/what-git-does-under-the-hood.md) | Commits aren't what you think | 4 min |
+| [Why Databases Use Indexes](docs/coffee-reads/why-databases-use-indexes.md) | The phone book that speeds up every query | 4 min |
+| [Library vs Framework](docs/coffee-reads/library-vs-framework.md) | Who's in charge — you or the code? | 3 min |
+| [Why HTTP Is Stateless](docs/coffee-reads/why-http-is-stateless.md) | Servers that forget you the moment you leave | 3 min |
+| [The `map(parseInt)` Gotcha](docs/coffee-reads/map-parseint-gotcha.md) | JavaScript's strangest result, explained | 4 min |
+| [What Is Idempotency](docs/coffee-reads/what-is-idempotency.md) | The concept that keeps APIs safe to retry | 3 min |
+| [Why Code Reviews Matter](docs/coffee-reads/why-code-reviews-matter.md) | It's not about finding bugs | 3 min |
+
+[→ Browse all Coffee Reads](docs/coffee-reads/README.md)
+
+---
+
+## 🌟 What's Inside
 
 ###  Frontend Development
 - **HTML** - Semantic markup, accessibility, SEO best practices
