@@ -70,31 +70,8 @@ This runs later  ← 2 seconds later
 
 Here's the machinery that makes this work:
 
-```
-┌─────────────────────────────────────┐
-│           Call Stack                │
-│  (what JavaScript is doing NOW)     │
-│                                     │
-│  ┌─────────────────────────────┐    │
-│  │  console.log('End')        │    │
-│  └─────────────────────────────┘    │
-└──────────────────┬──────────────────┘
-                   │ finished? pull next task
-                   ▼
-┌─────────────────────────────────────┐
-│           Callback Queue            │
-│  (finished async tasks waiting)     │
-│                                     │
-│  [ setTimeout callback ]            │
-│  [ fetch response handler ]         │
-└─────────────────────────────────────┘
-         ▲
-         │ browser pushes here when done
-┌────────┴────────────────────────────┐
-│        Web APIs (Browser)           │
-│  setTimeout, fetch, DOM events...   │
-└─────────────────────────────────────┘
-```
+<img width="800" height="401" alt="image" src="https://github.com/user-attachments/assets/e1df69a6-02dc-4c36-960b-29b29a1d8fc0" />
+
 
 The **event loop** watches the call stack. When it's empty, it picks the next item from the callback queue and pushes it in.
 
